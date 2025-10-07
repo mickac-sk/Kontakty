@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Kontakty.Terminal")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+54cf92876dad1fdffe98869468d674b7ef46dac6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Kontakty.Terminal")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Kontakty.Terminal")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

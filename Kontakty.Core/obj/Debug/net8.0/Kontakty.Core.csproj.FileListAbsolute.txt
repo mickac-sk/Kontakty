@@ -20,3 +20,4 @@ D:\technikum\PAD_3\GR_1\Kontakty\Kontakty.Core\obj\Debug\net8.0\Kontakty.Core.dl
 D:\technikum\PAD_3\GR_1\Kontakty\Kontakty.Core\obj\Debug\net8.0\refint\Kontakty.Core.dll
 D:\technikum\PAD_3\GR_1\Kontakty\Kontakty.Core\obj\Debug\net8.0\Kontakty.Core.pdb
 D:\technikum\PAD_3\GR_1\Kontakty\Kontakty.Core\obj\Debug\net8.0\ref\Kontakty.Core.dll
+H:\technikum\PAD_3\GR_1\Kontakty\Kontakty.Core\obj\Debug\net8.0\Kontakty.Core.sourcelink.json

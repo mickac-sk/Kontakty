@@ -34,3 +34,4 @@ D:\technikum\PAD_3\GR_1\Kontakty\Kontakty.Terminal\obj\Debug\net8.0\refint\Konta
 D:\technikum\PAD_3\GR_1\Kontakty\Kontakty.Terminal\obj\Debug\net8.0\Kontakty.Terminal.pdb
 D:\technikum\PAD_3\GR_1\Kontakty\Kontakty.Terminal\obj\Debug\net8.0\Kontakty.Terminal.genruntimeconfig.cache
 D:\technikum\PAD_3\GR_1\Kontakty\Kontakty.Terminal\obj\Debug\net8.0\ref\Kontakty.Terminal.dll
+H:\technikum\PAD_3\GR_1\Kontakty\Kontakty.Terminal\obj\Debug\net8.0\Kontakty.Terminal.sourcelink.json

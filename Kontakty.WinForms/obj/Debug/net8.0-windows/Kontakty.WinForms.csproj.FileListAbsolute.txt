@@ -1,0 +1,17 @@
+H:\technikum\PAD_3\GR_1\Kontakty\Kontakty.WinForms\bin\Debug\net8.0-windows\Kontakty.WinForms.exe
+H:\technikum\PAD_3\GR_1\Kontakty\Kontakty.WinForms\bin\Debug\net8.0-windows\Kontakty.WinForms.deps.json
+H:\technikum\PAD_3\GR_1\Kontakty\Kontakty.WinForms\bin\Debug\net8.0-windows\Kontakty.WinForms.runtimeconfig.json
+H:\technikum\PAD_3\GR_1\Kontakty\Kontakty.WinForms\bin\Debug\net8.0-windows\Kontakty.WinForms.dll
+H:\technikum\PAD_3\GR_1\Kontakty\Kontakty.WinForms\bin\Debug\net8.0-windows\Kontakty.WinForms.pdb
+H:\technikum\PAD_3\GR_1\Kontakty\Kontakty.WinForms\obj\Debug\net8.0-windows\Kontakty.WinForms.Form1.resources
+H:\technikum\PAD_3\GR_1\Kontakty\Kontakty.WinForms\obj\Debug\net8.0-windows\Kontakty.WinForms.csproj.GenerateResource.cache
+H:\technikum\PAD_3\GR_1\Kontakty\Kontakty.WinForms\obj\Debug\net8.0-windows\Kontakty.WinForms.GeneratedMSBuildEditorConfig.editorconfig
+H:\technikum\PAD_3\GR_1\Kontakty\Kontakty.WinForms\obj\Debug\net8.0-windows\Kontakty.WinForms.AssemblyInfoInputs.cache
+H:\technikum\PAD_3\GR_1\Kontakty\Kontakty.WinForms\obj\Debug\net8.0-windows\Kontakty.WinForms.AssemblyInfo.cs
+H:\technikum\PAD_3\GR_1\Kontakty\Kontakty.WinForms\obj\Debug\net8.0-windows\Kontakty.WinForms.csproj.CoreCompileInputs.cache
+H:\technikum\PAD_3\GR_1\Kontakty\Kontakty.WinForms\obj\Debug\net8.0-windows\Kontakty.WinForms.sourcelink.json
+H:\technikum\PAD_3\GR_1\Kontakty\Kontakty.WinForms\obj\Debug\net8.0-windows\Kontakty.WinForms.dll
+H:\technikum\PAD_3\GR_1\Kontakty\Kontakty.WinForms\obj\Debug\net8.0-windows\refint\Kontakty.WinForms.dll
+H:\technikum\PAD_3\GR_1\Kontakty\Kontakty.WinForms\obj\Debug\net8.0-windows\Kontakty.WinForms.pdb
+H:\technikum\PAD_3\GR_1\Kontakty\Kontakty.WinForms\obj\Debug\net8.0-windows\Kontakty.WinForms.genruntimeconfig.cache
+H:\technikum\PAD_3\GR_1\Kontakty\Kontakty.WinForms\obj\Debug\net8.0-windows\ref\Kontakty.WinForms.dll
