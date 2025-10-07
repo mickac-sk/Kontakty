@@ -1,32 +1,57 @@
+using Kontakty.Core;
+
 namespace Kontakty.WinForms
 {
     public partial class Form1 : Form
     {
-        private readonly string login_name = "admin";
-        private readonly string password_name = "Admin1";
+        private ContactsBook _contactsBook = new ContactsBook();
         public Form1()
         {
             InitializeComponent();
-
-            titleLable.Text = "Witaj w aplikacji Kontakty";
         }
 
-        private void actionBtn_Click(object sender, EventArgs e)
+        private void Form1_Load(object sender, EventArgs e)
         {
-            if (loginTextbox.Text == null || passwordTextbox.Text == null || loginTextbox.Text == "" || passwordTextbox.Text == "")
-            {
-                MessageBox.Show("Pola nie moga byæ puste");
-            }
+            _contactsBook.AddContact(new Contact("Adam Kowalski", "adamkowalski@gmail.com"));
+            _contactsBook.AddContact(new Contact("Adam Kowalski", null, "+48 556 556 556"));
+            _contactsBook.AddContact(new Contact("Adam Kowalski", "adamkowalski@gmail.com", "+48 556 556 556"));
+            RefreshContacts();
+        }
 
-            if(loginTextbox.Text == login_name &&  passwordTextbox.Text == password_name)
+        private void RefreshContacts()
+        {
+            contactsListbox.Items.Clear();
+            List<Contact> contacts = _contactsBook.GetContacts();
+
+            foreach (Contact contact in contacts)
             {
-                MessageBox.Show("Logowanie poprawne");
+                contactsListbox.Items.Add($"{contact.Name}, {contact.Email}");
             }
-            else
+        }
+
+        private void clearBtn_Click(object sender, EventArgs e)
+        {
+            clearForm();
+        }
+
+        private void clearForm()
+        {
+            nameTextbox.Clear();
+            emailTextbox.Clear();
+            phoneTextbox.Clear();
+            contactsListbox.SelectedItem = null;
+            nameTextbox.Focus();
+        }
+
+        private void saveBtn_Click(object sender, EventArgs e)
+        {
+            if (string.IsNullOrWhiteSpace(nameTextbox.Text))
             {
-                MessageBox.Show("B³êdny login lub has³o");
-                passwordTextbox.Text = "";
+                MessageBox.Show("Imiê i nazwisko nie mo¿e byc puste", "B³¹d", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return;
             }
+            // Add new contact
+
         }
     }
 }

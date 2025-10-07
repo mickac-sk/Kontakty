@@ -15,3 +15,7 @@ H:\technikum\PAD_3\GR_1\Kontakty\Kontakty.WinForms\obj\Debug\net8.0-windows\refi
 H:\technikum\PAD_3\GR_1\Kontakty\Kontakty.WinForms\obj\Debug\net8.0-windows\Kontakty.WinForms.pdb
 H:\technikum\PAD_3\GR_1\Kontakty\Kontakty.WinForms\obj\Debug\net8.0-windows\Kontakty.WinForms.genruntimeconfig.cache
 H:\technikum\PAD_3\GR_1\Kontakty\Kontakty.WinForms\obj\Debug\net8.0-windows\ref\Kontakty.WinForms.dll
+H:\technikum\PAD_3\GR_1\Kontakty\Kontakty.WinForms\bin\Debug\net8.0-windows\Kontakty.Core.dll
+H:\technikum\PAD_3\GR_1\Kontakty\Kontakty.WinForms\bin\Debug\net8.0-windows\Kontakty.Core.pdb
+H:\technikum\PAD_3\GR_1\Kontakty\Kontakty.WinForms\obj\Debug\net8.0-windows\Kontakty.WinForms.csproj.AssemblyReference.cache
+H:\technikum\PAD_3\GR_1\Kontakty\Kontakty.WinForms\obj\Debug\net8.0-windows\Kontakty.15EDCB5B.Up2Date
